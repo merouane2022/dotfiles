@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = derouich1993@gmail.com
+	name = merouane derouich derouich1993@gmail.com
